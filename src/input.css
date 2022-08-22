@@ -2,11 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-/* @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400..700&display=swap'); */
-
-@font-face {
+/* @font-face {
   font-family: 'Outfit';
   font-weight: 400 700;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/outfit/v6/QGYvz_MVcBeNP4NJtEtq.woff2) format('woff2');
-}
+} */
